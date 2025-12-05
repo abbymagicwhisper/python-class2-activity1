@@ -1,0 +1,6 @@
+print("Hello world")
+print("5")
+print(5/2)
+print("Hello world, it\'s " ,2025)
+print("Hi there!", end = " ???")
+print("Hello world, it\'s " ,2025)
